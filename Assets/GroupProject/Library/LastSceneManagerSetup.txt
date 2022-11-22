@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Team5/Assets/Scenes/MainCues.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
